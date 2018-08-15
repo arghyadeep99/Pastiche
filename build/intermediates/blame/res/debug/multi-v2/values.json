@@ -1,0 +1,102 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Arup Ratan Das\\AndroidStudioProjects\\tensorflow-style-transfer-android-codelab-start\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Arup Ratan Das\\AndroidStudioProjects\\tensorflow-style-transfer-android-codelab-start\\android\\res\\values\\base-strings.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "706,660",
+                        "endColumns": "58,45",
+                        "endOffsets": "760,701"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "650,709",
+                        "endColumns": "58,45",
+                        "endOffsets": "704,750"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Arup Ratan Das\\AndroidStudioProjects\\tensorflow-style-transfer-android-codelab-start\\android\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,14,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "755,838,888",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "833,883,967"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Arup Ratan Das\\AndroidStudioProjects\\tensorflow-style-transfer-android-codelab-start\\android\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "295,365,408,452,497,540,582",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "360,403,447,492,535,577,645"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Arup Ratan Das\\AndroidStudioProjects\\tensorflow-style-transfer-android-codelab-start\\android\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Arup Ratan Das\\AndroidStudioProjects\\tensorflow-style-transfer-android-codelab-start\\android\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1023",
+                        "endColumns": "94",
+                        "endOffsets": "1113"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Arup Ratan Das\\AndroidStudioProjects\\tensorflow-style-transfer-android-codelab-start\\android\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,18,19,20,21,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "972,1118,1178,1231,1258,1454",
+                        "endLines": "16,18,19,20,24,30",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1018,1173,1226,1253,1449,1727"
+                    }
+                }
+            ]
+        }
+    ]
+}
